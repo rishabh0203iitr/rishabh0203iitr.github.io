@@ -252,6 +252,12 @@ section p:last-child {
   gap: 0.75rem;
 }
 
+.equal-contribution {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  font-style: italic;
+}
+
 .paper-links a {
   font-size: 0.8rem;
   font-weight: 500;
